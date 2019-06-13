@@ -55,6 +55,7 @@ public class Gusto {
 	public void setIngredienti(String ingredienti) {
 		this.ingredienti = ingredienti;
 	}
+	
 	public void acquisto() {
 		this.numeroAcquistati++;
 		this.numeroPalline--;
